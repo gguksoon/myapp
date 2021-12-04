@@ -1,8 +1,8 @@
 package app.myapp.board.mapper;
 
-import org.apache.ibatis.annotations.Mapper;
+//import org.apache.ibatis.annotations.Mapper;
 
-@Mapper
+//@Mapper
 public interface BoardMPR {
 
 }

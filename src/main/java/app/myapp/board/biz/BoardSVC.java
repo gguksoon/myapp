@@ -8,6 +8,6 @@ import app.myapp.board.mapper.BoardMPR;
 @Service
 public class BoardSVC {
 
-	@Autowired
-	private BoardMPR boardMPR;
+//	@Autowired
+//	private BoardMPR boardMPR;
 }
